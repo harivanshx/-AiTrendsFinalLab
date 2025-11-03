@@ -38,9 +38,9 @@ HTML_PAGE = """
     </style>
 </head>
 <body>
-    <h1>🚀 Welcome to My Flask Static Page</h1>
+    <h1>Harivansh Bhardwaj Static Web Page</h1>
     <p>This is a simple static webpage served by Flask and Docker.</p>
-    <button onclick="alert('Hello from Flask!')">Click Me</button>
+    <button onclick="alert('Hello from Harivansh!')">Click Me</button>
 </body>
 </html>
 """
